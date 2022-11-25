@@ -1,4 +1,4 @@
-# dar
+# v1.1
 #### Programos spartos naudojant klases ir struktūras palyginimas
 Palyginkite abiejų Jūsų programų: naudojančios struct iš ankstesniojo darbo ir naudojančio class tipo Studentus iš dabartinės realizacijos spartą (veikimo laiką), naudojant vieną fiksuotą konteinerį, pvz. vektorių, pačią greičiausią dalijimo strategiją ir 100000 ir 1000000 dydžio failus. 
 
